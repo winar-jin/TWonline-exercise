@@ -1,0 +1,23 @@
+{
+  "name": "TWonline-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winar-jin/TWonline-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winar-jin/TWonline-exercise/issues"
+  },
+  "homepage": "https://github.com/winar-jin/TWonline-exercise#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
