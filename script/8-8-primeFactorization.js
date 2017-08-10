@@ -17,7 +17,6 @@ function primeFactor(num) {
             result.push(remainder);
             rest /= remainder;
         }
-        console.log(`${num}=${result.join('')}`);
         return `${num}=${result.join('')}`;
     })();
 }
