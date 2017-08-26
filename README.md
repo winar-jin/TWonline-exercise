@@ -87,3 +87,8 @@
          第二个：需要返回字符串的长度
          第三个：用来拼接的字符串
          有趣的pad-left: https://github.com/shengxinjing/my_blog/issues/10
+
+* 8-25:
+
+    题目：将数组中所包含的某个元素找出，并放在数组后面
+         给出 nums = [0, 1, 0, 3, 12], target = 0; 调用函数之后, 得到nums = [1, 3, 12, 0, 0].
